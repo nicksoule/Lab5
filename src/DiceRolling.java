@@ -10,7 +10,7 @@ public class DiceRolling {
 		int rollCount = 1;
 
 		// Start program by obtaining user input for diceSides
-		System.out.println("Welcome to the Grand Circus Casion!\n");
+		System.out.println("Welcome to the Grand Circus Casino!\n");
 		System.out.println("How many sides should each die have? ");
 		diceSides = scan.nextInt();
 
